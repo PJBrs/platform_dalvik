@@ -22,6 +22,7 @@
 
 #include <signal.h>
 #include <sys/types.h>
+#include <sys/resource.h>
 #include <sys/wait.h>
 #include <grp.h>
 #include <errno.h>
